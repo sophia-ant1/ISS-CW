@@ -1,0 +1,13 @@
+{
+  "algorithm": "AES-256-GCM + ECDH envelope encryption + HMAC-SHA256",
+  "ephemeral_public_key": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/umF5hND1YTkNoe2q4wgkjSMpIcv\nGXczA3MLpAGSaotjIj7o1Wy/NgdpSmvtqxKih3zc0XItbsZ3Q0JEWSF3RA==\n-----END PUBLIC KEY-----\n",
+  "wrapped_dek": {
+    "nonce": "odSzs1RI930F0GrN",
+    "ciphertext": "tCUZDafo/nnTl2xRrJUPdLXs1aB91nS52gI8Cl8AIRa8YBUi1n9jCW/JH/TBT5oJ"
+  },
+  "encrypted_payload": {
+    "nonce": "qMd7xOFK6heCLqlU",
+    "ciphertext": "eu4uFpfbk/zYQdw3E2SniT7hklT8it1O2UNLZHb1fb8="
+  },
+  "hmac": "E50nD7PNaylIYz/qz+/bj3ZruZ2Y8jQKPSapm7yDHAU="
+}

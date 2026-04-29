@@ -1,0 +1,13 @@
+{
+  "algorithm": "AES-256-GCM + ECDH envelope encryption + HMAC-SHA256",
+  "ephemeral_public_key": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEiXDPQfamI5/K5jwsC/8MiuKgqXjt\nMuX4I9RXuUUnci7FXhNEM4pp63jG3g3YICx7LjUgFbUgIzPMKJlIDQEseQ==\n-----END PUBLIC KEY-----\n",
+  "wrapped_dek": {
+    "nonce": "x9Wd9Qs8XjltSdGw",
+    "ciphertext": "sggFp8gAVmdmgtZtIjnUIygY8YzZIQZP6EFxovDVmo8X5+ZNP+qaQPVzSRlmFxwu"
+  },
+  "encrypted_payload": {
+    "nonce": "lBh0+HkVB4rhuR3T",
+    "ciphertext": "AJlEoOuWVxQ1yzHBGg4aA9I326x1k8TwjcBkX9ZkKu09CwDv4GTdv3zwNkmMWYQjiVHM27EHNCa/CxcG7Zo1EVQfnugzT6y3/h5y1P/TJg6+bGZIqlLYl4gRbCDyngMYN2eiquDa+2wvKlpu1Yyl5kBUezGlzybrnn4AFn6XdlwqhRdw/MvBskI34NZjPzIfXRT5y43/1D0o3f5/KiU5P69/wBeVd902XqIphT7S6nDi5/dwFM9IVoHKs1wRbxgjWDrpdFAezkbLt17pKOHkSntj48qlSuvHFyta6q1gcz+g0Ip6sPs8RJsPxnGqChNBvnh+EAVxfOBG/tzWf7ruXoMkQyqF+mOCryaaKNobb+g3yHwv2qFKmh30+MwdjiZq3w63zEYDPL4VTDWC6AybTGilFUqjU68mffI="
+  },
+  "hmac": "hMe+IvalzTpsEEDLKhQDxtej08Rx3Ntk8Jd1ZJ+SpIg="
+}

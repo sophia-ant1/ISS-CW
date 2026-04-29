@@ -1,0 +1,105 @@
+[
+  {
+    "username": "student1",
+    "role": "student",
+    "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$wLdWzXlXHsGXgCzVlHJxqA$fnnxF09WlR0/rb+k12hJQyk9hQQ3j4lEq26kHaouerI",
+    "active": false,
+    "profile": {
+      "full_name": "anon_99ce752e8767e3a0",
+      "email": "anon_99ce752e8767e3a0@anonymised.invalid",
+      "anonymised": true,
+      "anonymised_at": "2026-04-28T17:05:29.944196+00:00",
+      "anonymised_by": "amy_admin"
+    }
+  },
+  {
+    "username": "student2",
+    "role": "student",
+    "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$LXYANZwCLW0d6HlvbnLN1g$GX8Nj2NQc7kc1Lkk8sQ4UeUPNvznB/W7IjiwKUVUyEY",
+    "active": true,
+    "profile": {
+      "email": "student2@test.com"
+    }
+  },
+  {
+    "username": "lecturer1",
+    "role": "lecturer",
+    "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$wSaUkr8GxxgLhbVsWt1DSw$5Cv7JXxLJASwsY/hOw7pcC2Lrm+qdGz7cxclBDE8yVk",
+    "active": true,
+    "profile": {
+      "email": "lecturer1@test.com"
+    }
+  },
+  {
+    "username": "admin1",
+    "role": "admin",
+    "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$R3yUr9utfqFthtnb3e+soQ$OwvaOKoly9rnSQ5FzsuWG6LI8CZYhDfBqHKU4IidR5o",
+    "active": true,
+    "profile": {
+      "email": "admin1@test.com"
+    }
+  },
+  {
+    "username": "alice_student",
+    "role": "student",
+    "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$X5ITGt/Fdnd8nfQEwM+PtQ$V4j6BNQo6BLhY3Rl7n/snrUbnNdTVsjbFvyywKuXxP8",
+    "active": true,
+    "profile": {
+      "full_name": "Alice Student",
+      "email": "alice.updated@example.local"
+    }
+  },
+  {
+    "username": "leo_lecturer",
+    "role": "lecturer",
+    "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$H7KJHjiNhO8oKNQcF/F9BQ$zvc53eroST6huAGIPpBtHhbAX23XAim7N3tgdqsZXco",
+    "active": true,
+    "profile": {
+      "full_name": "Leo Lecturer",
+      "email": "leo@example.local"
+    }
+  },
+  {
+    "username": "amy_admin",
+    "role": "admin",
+    "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$xKxJ507pxUHCcCduNDp1Qg$QqIPjNGT5PDumBapuRezXmf/UtSVnXBVrD+d/i0lFF4",
+    "active": true,
+    "profile": {
+      "full_name": "Amy Admin",
+      "email": "amy@example.local"
+    }
+  },
+  {
+    "username": "demo_erasure",
+    "role": "student",
+    "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$CWD3LFLekz5Oe6D/mOsWxQ$0xi77/f549pT6ViQtDlCb7CaPPbeMThSY4qpGs24Qu8",
+    "active": false,
+    "profile": {
+      "full_name": "anon_aa42f915f3d736e0",
+      "email": "anon_aa42f915f3d736e0@anonymised.invalid",
+      "anonymised": true,
+      "anonymised_at": "2026-04-28T15:54:36.220347+00:00",
+      "anonymised_by": "amy_admin"
+    }
+  },
+  {
+    "username": "newstudent",
+    "role": "student",
+    "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$pQ7h3J9IvfWffI1KzN/fdw$FuF3cIooshJZ00mtuYC39zo3qzhNmutSUevZumGmnn8",
+    "active": true,
+    "profile": {
+      "full_name": "New Student",
+      "email": "ns@example.com"
+    }
+  },
+  {
+    "username": "validemailuser",
+    "role": "student",
+    "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$VPlMQsXcKNzIvdUO+ZxDbw$764WCSWR7RrkDlSbWMo5CrGSC4bRs/YcY4W8Gr1yHZY",
+    "active": true,
+    "profile": {
+      "full_name": "Valid User",
+      "email": "valid@example.com"
+    }
+  }
+]

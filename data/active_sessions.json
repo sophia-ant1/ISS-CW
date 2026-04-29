@@ -1,0 +1,14 @@
+{
+  "active_sessions": [
+    {
+      "sid": "cCGebpxBirIVKcuizq94cqkYn-PYsCbRxpICzpjeC7I",
+      "username": "alice_student",
+      "expires_at": "2026-04-28T17:33:48.944816+00:00"
+    },
+    {
+      "sid": "r4uZ-fv57_86PvFaiDcf43-D6DB7LffpRppnOM1dkIg",
+      "username": "amy_admin",
+      "expires_at": "2026-04-28T18:03:42.773129+00:00"
+    }
+  ]
+}
